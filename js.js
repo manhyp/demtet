@@ -52,6 +52,10 @@ $(document).ready(function() {
                 y = "Chúc",
                 d = "Tân",
                 C = "Xuân")),
+                // Thêm chuyển hướng với khoảng dừng 2 giây
+                n >= t[a].m1 && n < r && setTimeout(() => {
+                window.location.href = "https://manhyp.github.io/phaohoa/";
+                }, 1500),
                 !s) {
                     var b = i - n;
                     T = Math.floor(b / 1e3 % 60),
