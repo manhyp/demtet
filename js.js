@@ -22,7 +22,7 @@ $(document).ready(function() {
         m1: Date.parse("Feb 10 2024 00:00:00")
     }, {
         name: "Ất Tỵ",
-        m1: Date.parse("Jan 22 2025 00:00:00")
+        m1: Date.parse("Jan 18 2025 00:00:00")
     }]
       , e = t.length;
     setInterval(function() {
